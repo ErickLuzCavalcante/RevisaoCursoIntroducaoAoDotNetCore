@@ -1,0 +1,13 @@
+C:\GIT\RevisaoCursoIntroducaoAoDotNetCore\obj\Debug\netcoreapp3.1\RevisaoCursoIntroducaoAoDotNetCore.csprojAssemblyReference.cache
+C:\GIT\RevisaoCursoIntroducaoAoDotNetCore\obj\Debug\netcoreapp3.1\RevisaoCursoIntroducaoAoDotNetCore.AssemblyInfoInputs.cache
+C:\GIT\RevisaoCursoIntroducaoAoDotNetCore\obj\Debug\netcoreapp3.1\RevisaoCursoIntroducaoAoDotNetCore.AssemblyInfo.cs
+C:\GIT\RevisaoCursoIntroducaoAoDotNetCore\obj\Debug\netcoreapp3.1\RevisaoCursoIntroducaoAoDotNetCore.csproj.CoreCompileInputs.cache
+C:\GIT\RevisaoCursoIntroducaoAoDotNetCore\bin\Debug\netcoreapp3.1\RevisaoCursoIntroducaoAoDotNetCore.exe
+C:\GIT\RevisaoCursoIntroducaoAoDotNetCore\bin\Debug\netcoreapp3.1\RevisaoCursoIntroducaoAoDotNetCore.deps.json
+C:\GIT\RevisaoCursoIntroducaoAoDotNetCore\bin\Debug\netcoreapp3.1\RevisaoCursoIntroducaoAoDotNetCore.runtimeconfig.json
+C:\GIT\RevisaoCursoIntroducaoAoDotNetCore\bin\Debug\netcoreapp3.1\RevisaoCursoIntroducaoAoDotNetCore.runtimeconfig.dev.json
+C:\GIT\RevisaoCursoIntroducaoAoDotNetCore\bin\Debug\netcoreapp3.1\RevisaoCursoIntroducaoAoDotNetCore.dll
+C:\GIT\RevisaoCursoIntroducaoAoDotNetCore\bin\Debug\netcoreapp3.1\RevisaoCursoIntroducaoAoDotNetCore.pdb
+C:\GIT\RevisaoCursoIntroducaoAoDotNetCore\obj\Debug\netcoreapp3.1\RevisaoCursoIntroducaoAoDotNetCore.dll
+C:\GIT\RevisaoCursoIntroducaoAoDotNetCore\obj\Debug\netcoreapp3.1\RevisaoCursoIntroducaoAoDotNetCore.pdb
+C:\GIT\RevisaoCursoIntroducaoAoDotNetCore\obj\Debug\netcoreapp3.1\RevisaoCursoIntroducaoAoDotNetCore.genruntimeconfig.cache
